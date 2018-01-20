@@ -1,4 +1,4 @@
-package be.turbots.whalewatcher.model;
+package be.turbots.whalewatcher.transaction.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
